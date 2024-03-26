@@ -1,6 +1,10 @@
 # Fixpoint
 Version 2.3.3
 
+Author: Bertrand Jeannet
+
+Website: https://www.inrialpes.fr/pop-art/people/bjeannet/bjeannet-forge/fixpoint/index.html
+
 **Updated to build with dune.**
 
 ## About
